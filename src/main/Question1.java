@@ -1,5 +1,8 @@
 package main;
 // Print the index fo required element from an array.
+//Rachit Rai
+//roll no. 42
+//sec. D
 import java.util.Scanner;
 
 public class Question1 {

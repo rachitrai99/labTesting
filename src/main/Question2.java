@@ -3,6 +3,10 @@ package main;
 import java.util.Scanner;
 
 //Print all duplicate elements.
+
+//Rachit Rai
+//roll no. 42
+//sec. D
 public class Question2 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
